@@ -334,14 +334,14 @@ ja: &DEFAULT_JA
     section: services
     list:
       - title: 構造計算
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        desc: 許容応力度計算、限界耐力計算、、
+        icon: fas fa-calculator #find more at https://fontawesome.com/icons
       - title: 施工支援
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+        desc: 設備の基礎や架台、塀、擁壁、仮設足場、、　セルフビルドも
+        icon: fas fa-hammer
       - title: 既存住宅状況調査
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        desc: フラット35適合証明、耐震基準適合証明、、
+        icon: fas fa-clinic-medical
 
   portfolio:
     title: "Portfolio"
@@ -441,7 +441,7 @@ ja: &DEFAULT_JA
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
+    title: お問い合わせ
     text: "Lorem ipsum or call 123456789"
     section: contact
     name: "Name*"
@@ -453,7 +453,7 @@ ja: &DEFAULT_JA
     message: "Message*"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
-    submit: "Send Message"
+    submit: 送信
 
   footer:
     legal: "Privacy Policy"
