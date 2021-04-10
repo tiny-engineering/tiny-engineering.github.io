@@ -323,13 +323,13 @@ es-CO:
 # -----------------
 ja: &DEFAULT_JA
   header:
-    title: Welcome to our Studio!
+    title: 建築廻りの些事、お引き受けします!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: 主に頼めること
     text: "Lorem ipsum"
     section: services
     list:
